@@ -2,7 +2,7 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/KaueAbade/KaueAbade/blob/main/README.md)
 
 
-My name is Kauê Abade (`@KaueAbade`), I'm an engineering student and intern with a passion for turning my thinking into results through programming.
+My name is Kauê Abade, I'm an engineering student and intern with a passion for turning my thinking into results through programming.
 
 
 ## How so?
@@ -18,7 +18,7 @@ Both in .NET forms in C# and in web development.
 
 
 ## Academic background
-I'm currently studying Control and Automation Engineering at the [IFSP-SJC (Federal Institute of the State of São Paulo - São José dos Campos)](https://sjc.ifsp.edu.br) and I'm due to graduate in 2027.
+I'm currently studying Control and Automation Engineering at [IFSP-SJC (Federal Institute of the State of São Paulo - São José dos Campos)](https://sjc.ifsp.edu.br) and I'm due to graduate in 2027.
 
 
 ## Contact

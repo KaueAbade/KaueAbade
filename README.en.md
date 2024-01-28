@@ -1,5 +1,5 @@
 # About me
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)][pt-br]
+[![pt-br](https://img.shields.io/badge/change_lang-pt--br-green.svg)][pt-br]
 
 [pt-br]:  https://github.com/KaueAbade/KaueAbade/blob/main/README.md
 

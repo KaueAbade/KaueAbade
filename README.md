@@ -6,15 +6,15 @@ Me chamo Kauê Abade, sou um estudante e estagiário de Engenharia com uma paix�
 
 
 ## Como assim?
-Desde que me lembro, uma das minhas maiores satisfações vem do que descrevi anteriormente.
-A primeira aplicação que escrevi tinha essa satisfação em mente, com meus 12 anos e pelo meu celular escrevi uma calculadora de raizes para funções quadraticas em C++ (com deltas positivos, claro).
-Olhando pra trás com certeza não era um código perfeito, mas fico grato de te-lo escrito.
+Desde que me lembro, uma das minhas maiores satisfações vem do que descrevi anteriormente. 
+ A primeira aplicação que escrevi tinha essa satisfação em mente, com meus 12 anos e pelo meu celular escrevi uma calculadora de raizes para funções quadraticas em C++ (com deltas positivos, claro). 
+ Olhando pra trás com certeza não era um código perfeito, mas fico grato de te-lo escrito.
 
 
 ## Meus interesses
-Tenho interesse em desenvolvimento em C++ e C#, com um conhecimento básico em ambas as linguagens.
-Além de buscar me aperfeiçoar em ambas linguagens, tenho estudado para construir front-ends simples em minhas aplicações.
-Tanto nos formulários .NET em C#, tanto por desenvolvimento web vanilla.
+Tenho interesse em desenvolvimento em C++ e C#, com um conhecimento básico em ambas as linguagens. 
+ Além de buscar me aperfeiçoar em ambas linguagens, tenho estudado para construir front-ends simples em minhas aplicações.
+ Tanto nos formulários .NET em C#, tanto por desenvolvimento web vanilla.
 
 
 ## Meio acadêmico

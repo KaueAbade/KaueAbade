@@ -1,4 +1,5 @@
 # Sobre mim
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
 Me chamo Kauê Abade (`@KaueAbade`), sou um estudante e estagiário de Engenharia com uma paixão por transformar meu raciocinio em resultado por meio de programação.
 
 
@@ -15,7 +16,7 @@ Tanto nos formulários .NET em C#, tanto por desenvolvimento web.
 
 
 ## Meio acadêmico
-Atualmente estudo Engenharia de Controle e Automação no IFSP com formação prevista para 2027.
+Atualmente estudo Engenharia de Controle e Automação no [IFSP-SJC (Instituto Federal do Estado de São Paulo - São José dos Campos)](https://sjc.ifsp.edu.br) com formação prevista para 2027.
 
 
 ## Contato

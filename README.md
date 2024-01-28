@@ -1,7 +1,9 @@
 # Sobre mim
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/KaueAbade/KaueAbade/blob/main/README.en.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)][en]
 
+[en]: https://github.com/KaueAbade/KaueAbade/blob/main/README.en.md
 
+## Introdução
 Me chamo Kauê Abade, sou um estudante e estagiário de Engenharia com uma paixão por transformar meu raciocinio em resultado por meio da programação.
 
 

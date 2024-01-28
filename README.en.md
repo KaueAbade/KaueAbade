@@ -1,6 +1,9 @@
 # About me
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/KaueAbade/KaueAbade/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)][pt-br]
 
+[pt-br]:  https://github.com/KaueAbade/KaueAbade/blob/main/README.md
+
+## Introduction
 
 My name is Kauê Abade, I'm an engineering student and intern with a passion for turning my thinking into results through programming.
 

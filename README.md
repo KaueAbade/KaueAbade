@@ -8,7 +8,7 @@ Me chamo Kauê Abade, sou um estudante de Engenharia de Controle e Automação.
 
 
 ## Meus interesses
-Tenho interesse em desenvolvimento em C++, Java e C#, com um conhecimento básico nestas linguagens. 
+Tenho interesse em desenvolvimento em C++, Go e Python, com um conhecimento básico nestas linguagens. 
 
 
 ## Meio acadêmico

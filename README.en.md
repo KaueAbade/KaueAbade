@@ -9,7 +9,7 @@ My name is Kauê Abade, I'm an control and automation engineering student.
 
 
 ## My interests
-I'm interested in C++, Java and C# development, with a basic knowledge on those languages.
+I'm interested in C++, Go and Python development, with a basic knowledge on those languages.
 
 
 ## Academic background
